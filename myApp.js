@@ -1,7 +1,7 @@
 
 var express = require('express');
 var app = express();
-
+console.log("Hello express");
 // --> 7)  Mount the Logger middleware here
 
 
